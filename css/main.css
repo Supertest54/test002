@@ -1,0 +1,44 @@
+.button1{
+    background-color: pink;
+    height: 20px;
+    width: 24px;
+}
+.class2 {
+   height: 10em;
+   position: relative }             
+.class2 {
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    top: 50%;                         
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.class1{
+    background: Aqua;
+    height: 100px;
+    justify-content: center; 
+    display: flex;
+    align-items: center;
+}
+body{
+    background: url(../img/Fon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+label{
+    font-size: 22px;
+    margin-right: 37px;
+}
+input{
+    height: 24px;
+    margin-top: 12px;
+}
